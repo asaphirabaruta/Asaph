@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5e8c60f3.js",
-    "static/js/787.545aecf5.chunk.js": "/static/js/787.545aecf5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5e8c60f3.js.map": "/static/js/main.5e8c60f3.js.map",
-    "787.545aecf5.chunk.js.map": "/static/js/787.545aecf5.chunk.js.map"
+    "main.css": "/Asaph-projects/static/css/main.073c9b0a.css",
+    "main.js": "/Asaph-projects/static/js/main.11b6b946.js",
+    "static/js/787.545aecf5.chunk.js": "/Asaph-projects/static/js/787.545aecf5.chunk.js",
+    "static/media/logo.svg": "/Asaph-projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Asaph-projects/index.html",
+    "main.073c9b0a.css.map": "/Asaph-projects/static/css/main.073c9b0a.css.map",
+    "main.11b6b946.js.map": "/Asaph-projects/static/js/main.11b6b946.js.map",
+    "787.545aecf5.chunk.js.map": "/Asaph-projects/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5e8c60f3.js"
+    "static/js/main.11b6b946.js"
   ]
 }
